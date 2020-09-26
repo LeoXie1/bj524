@@ -1,4 +1,4 @@
-[![](logo/wxlogo.png)]
+![](logo/wxlogo.png)
 # bj524（信码由缰）个人仓库项目管理
 ## 仓库项目目录
 + MarkDowng规范
